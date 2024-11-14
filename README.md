@@ -2,7 +2,11 @@
 
 Yatra-Sangam
 
+## Full Responsive Webapp
+
 ## Description
+
+
 Yatra-Sangam is a platform for Booking Ticketss
 
 
@@ -12,6 +16,7 @@ Yatra-Sangam is a platform for Booking Ticketss
 
 ![Screenshot 2024-11-14 105845](https://github.com/user-attachments/assets/e5e737d7-4e13-417a-b350-b431d524a7b9)
 
+![Screenshot 2024-11-14 110514](https://github.com/user-attachments/assets/b0290305-d30a-4142-916b-b71287b9af58)
 
 
 
